@@ -694,6 +694,7 @@ hr {
 .md-fences .code-tooltip {
     padding: 0px;
     background-color: var(--code-inputbox-color);
+    border-radius: 30px;
 }
 
 .code-tooltip .ty-input {

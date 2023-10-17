@@ -23,7 +23,7 @@
     --write-color: #000;                         /* 全局的字体颜色 */
     --write-background: #fff;                    /* 书写框的背景颜色,使用linear-gradient可以实现渐变色 */
     --write-border: 2px solid rgba(0,0,0,0.75);  /* 书写框的边框 */
-    --write-border-radius: 20px;                    /* 书写框的边框圆角 */
+    --write-border-radius: 30px;                    /* 书写框的边框圆角 */
     --write-max-width: 80%;                        /* 书写框的所占比例 */
 
     /* favico */
@@ -241,8 +241,8 @@
     --code-cursor-border: 2px solid #fff;                          /* 光标配置 */
     --code-divided-line-border: 1px solid white;                   /* 分割线配置 */
     --code-inputbox-color: rgba(167, 178, 189, 0.2);               /* 输入框的颜色 */
-    --code-inputbox-border: 2px solid #000;                        /* 输入框的边框配置 */
-    --code-inputbox-focus-border: 10px solid #61abff;               /* 聚焦后输入框的边框配置 */
+    --code-inputbox-border: none;                        /* 输入框的边框配置 */
+    --code-inputbox-focus-border: none;               /* 聚焦后输入框的边框配置 */
     --code-selected-line-color: rgba(167, 178, 189, 0.2);          /* 光标所在代码行的颜色 */
     --code-selected-code-color: rgba(167, 178, 189, 0.2);          /* 选择代码后,代码的背景色 */
 
