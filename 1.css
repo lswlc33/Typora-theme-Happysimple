@@ -51,7 +51,7 @@
     --toc-border-radius: 20px;
     --toc-title-font-family: 'SiYuan_HeiTi';       /* ----------设置`目录`二字---------- */
     --toc-title-font-size: 1.0rem;
-    --toc-title-font-weight: 700;
+    --toc-title-font-weight: 500;
     --toc-title-line-height: 1.5;
     --toc-title-color:#000;
     --toc-content-font-family: 'SiYuan_HeiTi';     /* ----------设置目录内容---------- */
@@ -68,7 +68,7 @@
     --h1-padding: 0px;
     --h1-font-family: 'SiYuan_HeiTi';
     --h1-font-size: 2.4rem;
-    --h1-font-weight: 700;
+    --h1-font-weight: 500;
     --h1-line-height: 1.5;
     --h1-icon: '\e626';                            /* h1标题前的图标*/
     --h1-icon-color: #fe5f58;
@@ -79,7 +79,7 @@
     --h2-padding: 0px;
     --h2-font-family: 'SiYuan_HeiTi';
     --h2-font-size: 2.0rem;
-    --h2-font-weight: 500;
+    --h2-font-weight: 400;
     --h2-line-height: 1.5;
     --h2-icon: '#';
     --h2-icon-color: #fe5f58;
@@ -90,7 +90,7 @@
     --h3-padding: 0px;
     --h3-font-family: 'SiYuan_HeiTi';
     --h3-font-size: 1.6rem;
-    --h3-font-weight: 400;
+    --h3-font-weight: 300;
     --h3-line-height: 1.5;
     --h3-icon: '\e67f';
     --h3-icon-color: red;
